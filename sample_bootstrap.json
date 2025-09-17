@@ -1,0 +1,156 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Arsenal"
+    },
+    {
+      "id": 2,
+      "name": "Aston Villa"
+    },
+    {
+      "id": 3,
+      "name": "Chelsea"
+    },
+    {
+      "id": 4,
+      "name": "Liverpool"
+    },
+    {
+      "id": 5,
+      "name": "Man City"
+    }
+  ],
+  "element_types": [
+    {
+      "id": 1,
+      "singular_name_short": "GK"
+    },
+    {
+      "id": 2,
+      "singular_name_short": "DEF"
+    },
+    {
+      "id": 3,
+      "singular_name_short": "MID"
+    },
+    {
+      "id": 4,
+      "singular_name_short": "FWD"
+    }
+  ],
+  "elements": [
+    {
+      "id": 101,
+      "first_name": "Erling",
+      "second_name": "Haaland",
+      "web_name": "Haaland",
+      "team": 5,
+      "element_type": 4,
+      "now_cost": 140,
+      "ep_next": "7.5",
+      "form": "4.5",
+      "minutes": 2100,
+      "total_points": 180,
+      "selected_by_percent": "65.0"
+    },
+    {
+      "id": 102,
+      "first_name": "Mohamed",
+      "second_name": "Salah",
+      "web_name": "Salah",
+      "team": 4,
+      "element_type": 3,
+      "now_cost": 130,
+      "ep_next": "8.2",
+      "form": "5.0",
+      "minutes": 2000,
+      "total_points": 190,
+      "selected_by_percent": "52.0"
+    },
+    {
+      "id": 103,
+      "first_name": "Bukayo",
+      "second_name": "Saka",
+      "web_name": "Saka",
+      "team": 1,
+      "element_type": 3,
+      "now_cost": 95,
+      "ep_next": "6.1",
+      "form": "4.1",
+      "minutes": 1900,
+      "total_points": 165,
+      "selected_by_percent": "45.0"
+    },
+    {
+      "id": 104,
+      "first_name": "Cole",
+      "second_name": "Palmer",
+      "web_name": "Palmer",
+      "team": 3,
+      "element_type": 3,
+      "now_cost": 70,
+      "ep_next": "5.8",
+      "form": "4.8",
+      "minutes": 1850,
+      "total_points": 150,
+      "selected_by_percent": "38.0"
+    },
+    {
+      "id": 105,
+      "first_name": "Ollie",
+      "second_name": "Watkins",
+      "web_name": "Watkins",
+      "team": 2,
+      "element_type": 4,
+      "now_cost": 82,
+      "ep_next": "5.6",
+      "form": "3.9",
+      "minutes": 1950,
+      "total_points": 155,
+      "selected_by_percent": "40.0"
+    },
+    {
+      "id": 106,
+      "first_name": "William",
+      "second_name": "Saliba",
+      "web_name": "Saliba",
+      "team": 1,
+      "element_type": 2,
+      "now_cost": 58,
+      "ep_next": "4.3",
+      "form": "3.5",
+      "minutes": 2200,
+      "total_points": 140,
+      "selected_by_percent": "30.0"
+    },
+    {
+      "id": 107,
+      "first_name": "Alisson",
+      "second_name": "Becker",
+      "web_name": "Alisson",
+      "team": 4,
+      "element_type": 1,
+      "now_cost": 55,
+      "ep_next": "4.2",
+      "form": "2.9",
+      "minutes": 2100,
+      "total_points": 120,
+      "selected_by_percent": "20.0"
+    },
+    {
+      "id": 108,
+      "first_name": "Nicolas",
+      "second_name": "Jackson",
+      "web_name": "Jackson",
+      "team": 3,
+      "element_type": 4,
+      "now_cost": 69,
+      "ep_next": "4.9",
+      "form": "3.0",
+      "minutes": 1700,
+      "total_points": 115,
+      "selected_by_percent": "12.0"
+    }
+  ]
+}
